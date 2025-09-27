@@ -1,4 +1,6 @@
 # Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
+# Date:27.09.2025
+# Reg No: 212222100015
 
 # Aim:
 Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights with Multiple AI Tools
